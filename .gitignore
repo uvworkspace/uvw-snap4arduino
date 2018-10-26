@@ -1,5 +1,7 @@
-*.swp
-environments/*
-tmp
-releases/*
 .DS_Store
+*.swp
+.tern-port
+
+node_modules
+dist
+*.log
